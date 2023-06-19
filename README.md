@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Dnipro, UA
 * 🧠  I'm learning everything Javascript
-*:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-kozachuk-a66947155/)
+* :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-kozachuk-a66947155/)
 
 ---
 
